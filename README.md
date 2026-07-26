@@ -437,12 +437,5 @@ R1#  show vlans
 
 Libre d'utilisation pour l'apprentissage et la formation réseau.
 
----
 
-## 🏷️ Topics GitHub à ajouter
 
-```
-cisco  ccna  ccna2  vlan  inter-vlan-routing
-router-on-a-stick  subinterfaces  trunk
-packet-tracer  networking  switching  cisco-ios
-```
